@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dineshk1324
-- 👀 I’m interested in coding m networking,designing
+- 👀 I’m interested in coding
 - 🌱 I have learnt coding languages like C,C++,C#,PYTHON,JAVA,Javascript
 - 💞️ I’m looking to collaborate on projects regarding software developing
 - 📫 dinesh13338@gmail.com , 9840511450
